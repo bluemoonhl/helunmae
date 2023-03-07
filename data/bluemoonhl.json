@@ -1,0 +1,32 @@
+{
+  "name": "Heulunmae",
+  "type": "personal",
+  "bio": "Writer turned **director**. Actor and entrepreneuer."
+}
+{
+  "name": "Helunmae",
+  "type": "personal",
+  "bio": "Writer turned **director**. Actor and entrepreneuer.",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/helunmae",
+      "icon": "FaTwitter"
+    }
+      {
+      "name": "Follow me on Instagram",
+      "url": "https://www.instagram.com/lunmaeg",
+      "icon": "FaInstagram"
+    }
+    {
+      "name": "Follow me on YouTube",
+      "url": "https://www.youtube.com/helunmae",
+      "icon": "FaYoutube"
+    }
+    {
+      "name": "Follow me on Instagram",
+      "url": "https://www.instagram.com/eddieandsaraexplore/",
+      "icon": "FaInstagram"
+    }
+]
+}
